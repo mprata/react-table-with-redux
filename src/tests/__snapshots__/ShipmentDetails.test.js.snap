@@ -1,0 +1,232 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShipmentDetails component should render 1`] = `
+<div
+  className="ui container"
+>
+  <div
+    className="ui top attached header"
+  >
+    <a
+      href="/shipments"
+      onClick={[Function]}
+    >
+      Back
+    </a>
+  </div>
+  <h5
+    className="ui attached header"
+  >
+    ID
+  </h5>
+  <div
+    className="ui attached segment"
+  >
+    <p>
+      S1000
+    </p>
+  </div>
+  <h5
+    className="ui attached header"
+  >
+    Name
+  </h5>
+  <div
+    className="ui attached segment"
+  >
+    <form
+      className="ui form error"
+      onSubmit={[Function]}
+    >
+      <div
+        className="field "
+      >
+        <input
+          autoComplete="off"
+          name="name"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onDragStart={[Function]}
+          onDrop={[Function]}
+          onFocus={[Function]}
+          value=""
+        />
+      </div>
+      <button
+        className="ui button primary"
+      >
+        Update
+      </button>
+    </form>
+  </div>
+  <h5
+    className="ui attached header"
+  >
+    Cargo Details
+  </h5>
+  <div
+    className="ui attached segment"
+  >
+    <div>
+      <table
+        className="ui collapsing table"
+      >
+        <thead>
+          <tr>
+            <th>
+              Type
+            </th>
+            <th>
+              Description
+            </th>
+            <th>
+              Volume
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              Fabric
+            </td>
+            <td>
+              1000 Blue T-shirts
+            </td>
+            <td>
+              2
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Fabric
+            </td>
+            <td>
+              2000 Green T-shirts
+            </td>
+            <td>
+              3
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <h5
+    className="ui attached header"
+  >
+    Mode
+  </h5>
+  <div
+    className="ui attached segment"
+  >
+    <p>
+      sea
+    </p>
+  </div>
+  <h5
+    className="ui attached header"
+  >
+    Type
+  </h5>
+  <div
+    className="ui attached segment"
+  >
+    <p>
+      FCL
+    </p>
+  </div>
+  <h5
+    className="ui attached header"
+  >
+    Destination
+  </h5>
+  <div
+    className="ui attached segment"
+  >
+    <p>
+      Saarbrücker Str. 38, 10405 Berlin
+    </p>
+  </div>
+  <h5
+    className="ui attached header"
+  >
+    Origin
+  </h5>
+  <div
+    className="ui attached segment"
+  >
+    <p>
+      Shanghai Port
+    </p>
+  </div>
+  <h5
+    className="ui attached header"
+  >
+    Services
+  </h5>
+  <div
+    className="ui attached segment"
+  >
+    <div>
+      <table
+        className="ui collapsing table"
+      >
+        <thead>
+          <tr>
+            <th>
+              Type
+            </th>
+            <th>
+              Value
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              customs
+            </td>
+            <td />
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <h5
+    className="ui attached header"
+  >
+    Total
+  </h5>
+  <div
+    className="ui attached segment"
+  >
+    <p>
+      1000
+    </p>
+  </div>
+  <h5
+    className="ui attached header"
+  >
+    Status
+  </h5>
+  <div
+    className="ui attached segment"
+  >
+    <p>
+      ACTIVE
+    </p>
+  </div>
+  <h5
+    className="ui attached header"
+  >
+    User ID
+  </h5>
+  <div
+    className="ui attached segment"
+  >
+    <p>
+      U1000
+    </p>
+  </div>
+</div>
+`;
